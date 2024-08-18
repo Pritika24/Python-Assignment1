@@ -1,4 +1,4 @@
-#### write a program to find the most occurence of a character in a string.######
+#### write a program to find the length of a character in a string.######
 
 def count_char(word):
     count = 0
